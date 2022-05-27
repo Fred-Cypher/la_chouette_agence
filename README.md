@@ -17,7 +17,7 @@ Travail sur le SEO, les bonnes pratiques à adopter et l'accessibilité d'un sit
 
 Le site original à améliorer est celui-ci : https://fred-cypher.github.io/Starting-website/ 
 
-Ce repository reprend le code du repository original (https://github.com/Fred-Cypher/FrederiquePerrier_4_23072021.git) auquel s'ajoute une correction (ajout d'aria-label).
+Ce repository reprend le code du repository original (https://fred-cypher.github.io/P4-ChouetteAgence/) auquel s'ajoute une correction (ajout d'aria-label).
 Ce repository a été créé pour que le nom du fichier apparaisse dans l'adresse URL et soit ainsi plus lisible par les utilisateurs.
 
 
